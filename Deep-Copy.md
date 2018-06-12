@@ -1,4 +1,4 @@
-## Dopy Reference: "="
+## Copy Reference: "="
 ```javascript 
     this.currentModel = this.selectedModel;
 ```
